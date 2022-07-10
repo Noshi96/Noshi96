@@ -6,6 +6,27 @@
 - 👯 I’m looking to collaborate with a company where I could develop myself under the supervision of specialists.
 
 
+<summary>Contact</summary>
+<a href="https://www.linkedin.com/in/paweł-swora-69008121b/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+
+**Languages and Tools:**  
+
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
+  ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
+
+<summary>📈 My GitHub Stats</summary>
+
+<br />
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=noshi96&show_icons=true&theme=radical&locale=en&title_color=fcb526" alt="Noshi96 Stats" width="420"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noshi96&layout=compact&theme=radical&locale=en&title_color=fcb526" alt="Noshi96 Languages" height="165">
+</p>
+
 <!--
 **Noshi96/Noshi96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
