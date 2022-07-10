@@ -1,9 +1,9 @@
-## Hi there 👋
-👋 Hello there, I’m Paweł. I'm from Szczecin 🇵🇱.
-👀 I have been interested in frontend developing since January 2022.
-🌱 In April 2022, I completed an internship program in which I was building a web application with my team. I’m currently learning to write code in React using javascript.
-⚡ In June 2022, I graduated with a master's degree in Computer Science.
-👯 I’m looking to collaborate with a company where I could develop myself under the supervision of specialists.
+## Hello there 👋
+- 👋 Hi, I’m Paweł. I'm from Szczecin 🇵🇱.
+- 👀 I have been interested in frontend developing since January 2022.
+- 🌱 In April 2022, I completed an internship program in which I was building a web application with my team. I’m currently learning to write code in React using javascript.
+- ⚡ In June 2022, I graduated with a master's degree in Computer Science.
+- 👯 I’m looking to collaborate with a company where I could develop myself under the supervision of specialists.
 
 
 <!--
