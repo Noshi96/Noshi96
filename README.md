@@ -25,7 +25,7 @@
 <br />
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=noshi96&show_icons=true&theme=radical&locale=en&title_color=fcb526" alt="Noshi96 Stats" width="420"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=noshi96&show_icons=true&theme=radical&locale=en&title_color=fcb526" alt="Noshi96 Stats" width="420" height="165" />&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noshi96&layout=compact&theme=radical&locale=en&title_color=fcb526" alt="Noshi96 Languages" height="165">
 </p>
 <!--
