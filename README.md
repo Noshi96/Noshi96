@@ -22,10 +22,9 @@
 <summary>📈 My GitHub Stats</summary>
 
 <br />
-
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Noshi96&show_icons=true&theme=radical&locale=en&title_color=fcb526" alt="Noshi96 Stats" width="420" height="165" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noshi96&layout=compact&theme=radical&locale=en&title_color=fcb526" alt="Noshi96 Languages" height="165">
+  <img src="https://github-readme-stats.zohan.tech/api?username=Noshi96&show_icons=true&theme=radical&locale=en&title_color=fcb526" alt="Noshi96 Stats" width="420" height="165" />&nbsp;
+  <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Noshi96&layout=compact&theme=radical&locale=en&title_color=fcb526" alt="Noshi96 Languages" height="165">
 </p>
 <!--
 **Noshi96/Noshi96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
